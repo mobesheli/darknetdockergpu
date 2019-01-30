@@ -1,2 +1,2 @@
-# darknetdockergpu
+# Darknetdockergpu
 Darknet + OpenCV + Docker + GPU
